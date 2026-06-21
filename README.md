@@ -8,11 +8,31 @@
 <img align="right" alt="Coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **DSA, SQL, Power BI**
-- 💻 Working on **Data Analytics Projects**
-- 🌐 Portfolio: https://poonamsahu123.github.io/Portfolio/
-- 📊 Interested in **Data Science & Data Analysis**
-- 📫 Reach me at sahupoonam1044@gmail.com
+* 🌱 I'm currently learning **DSA, SQL, Power BI**
+
+* 💻 All of my projects are available at
+  **https://poonamsahu123.github.io/Portfolio/**
+
+* 💬 Ask me about **Python, SQL, Power BI, Data Analytics**
+
+* 📫 How to reach me
+  **[sahupoonam1044@gmail.com](mailto:sahupoonam1044@gmail.com)**
+
+* ⚡ Fun fact: **I enjoy solving coding problems and building data-driven projects!**
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Poonamsahu123">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://poonamsahu123.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-00C7F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
