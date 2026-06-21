@@ -22,19 +22,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/poonam-kumari-sahu-532077290/" target="_blank" style="margin-right:15;">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
 </a>
 
-<a href="https://github.com/Poonamsahu123">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://poonamsahu123.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00C7F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://leetcode.com/u/Poonamsahu//" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50" width="50" />
 </a>
-
----
+</p>
 
 ## 🚀 Languages and Tools
 
