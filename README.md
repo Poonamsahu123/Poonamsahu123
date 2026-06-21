@@ -11,7 +11,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 Currently learning **DSA, SQL, Power BI**
 - 💻 Working on **Data Analytics Projects**
 - 📊 Interested in **Data Science & Data Analysis**
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **sahupoonam1044@gmail.com**
 
 ---
 
