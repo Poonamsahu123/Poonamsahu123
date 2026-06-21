@@ -35,7 +35,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🔗 Connect with me
 
-- LinkedIn : Your LinkedIn URL
-- LeetCode : Your LeetCode URL
+- LinkedIn :(https://www.linkedin.com/in/poonam-kumari-sahu-532077290/)
+- LeetCode : (https://leetcode.com/u/Poonamsahu/)
 - Portfolio : Your Portfolio URL
 
