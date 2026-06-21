@@ -10,6 +10,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Currently learning **DSA, SQL, Power BI**
 - 💻 Working on **Data Analytics Projects**
+- 🌐 Portfolio: https://poonamsahu123.github.io/Portfolio/
 - 📊 Interested in **Data Science & Data Analysis**
 - 📫 Reach me at sahupoonam1044@gmail.com
 
